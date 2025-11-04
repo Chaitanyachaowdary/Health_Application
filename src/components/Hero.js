@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import heroImg from "../assets/hero.jpg"; // ✅ Make sure this image exists in src/assets/
+import heroImg from "../assets/hero.png"; // ✅ Make sure this image exists in src/assets/
 
 export default function Hero() {
   return (
